@@ -2,7 +2,7 @@
 
 <!-- Typing animation header -->
 <a href="https://github.com/Nishant5623">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nishant+Pal;Android+%26+Game+Developer;Open+Source+Contributor;Building+NyayaSetu+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nishant+Pal;DevOps+Engineer;Open+Source+Contributor;Cloud+%7C+Containers+%7C+Automation" alt="Typing SVG" />
 </a>
 
 <!-- Social badges -->
@@ -22,16 +22,16 @@
 
 ## 👋 About Me
 
-I'm a Computer Science student at Manav Rachna University, building things across Android, Python, and Unity. I care about software that solves real problems — currently focused on civic-tech for India and finding my way into the open source ecosystem.
+I'm a Computer Science student at Manav Rachna University, focused on DevOps, cloud infrastructure, and automation. I care about building reliable systems and contributing to open source along the way.
 
 <br/>
 
 ## 🎯 Goals & Currently Working On
 
-- 🏛️ **Building [NyayaSetu](#)** — an AI-powered court judgment summarizer and RTI filing assistant for India, submitted to **Samsung Solve for Tomorrow 2026**
+- 🏛️ **Building [Civic-Tech AI Platform](#)** — an AI-powered court judgment summarizer and RTI filing assistant for India, submitted to **Samsung Solve for Tomorrow 2026**
 - 🌱 **Contributing to open source** — actively working toward a first merged PR, with **Google Summer of Code (GSoC)** and **LFX Mentorship** as target programs
-- 📱 Shipping a **Spotify Album Art Wallpaper app** for Android (OAuth, Spotify Web API, WorkManager)
-- 💬 Happy to talk about: Android development, Unity game mechanics, Python automation, and civic tech
+- ⚙️ **Going deeper into DevOps & MLOps** — Docker, Kubernetes, CI/CD pipelines, and infrastructure automation
+- 💬 Happy to talk about: Linux systems, networking, containerization, CI/CD, and cloud platforms (AWS/GCP)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nishant-pal-0505322b3/) or check out my [Portfolio](https://portfolio-three-azure-91.vercel.app/)
 
 <br/>
@@ -39,7 +39,13 @@ I'm a Computer Science student at Manav Rachna University, building things acros
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,python,cs,unity,androidstudio,git,github,mysql,cpp,vscode,linux&theme=dark" alt="Tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=python,java,linux,docker,kubernetes,jenkins,git,github,ansible,aws,gcp&theme=dark" alt="Tech stack icons"/>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Networking-58A6FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DevOps-58A6FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLOps-58A6FF?style=for-the-badge"/>
 </div>
 
 <br/>
@@ -49,26 +55,20 @@ I'm a Computer Science student at Manav Rachna University, building things acros
 <table>
   <tr>
     <td width="50%">
-      <h3>🏛️ NyayaSetu</h3>
+      <h3>🏛️ Civic-Tech AI Platform</h3>
       <p>AI-powered civic-tech platform combining a court judgment summarizer with an RTI filing assistant for India. Submitted to Samsung Solve for Tomorrow 2026.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/AI-Civic--Tech-58A6FF?style=flat-square"/>
     </td>
-    <td width="50%">
-      <h3>🎵 Spotify Album Art Wallpaper</h3>
-      <p>Android app that syncs your phone wallpaper with currently playing Spotify album art, using OAuth and WorkManager for background polling.</p>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>📐 VLSM Calculator</h3>
       <p>A self-contained subnet calculator built with HTML and Java Swing, designed as a clean, portfolio-ready single-file tool.</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Swing-GUI-58A6FF?style=flat-square"/>
     </td>
-    <td width="50%">
+  </tr>
+  <tr>
+    <td colspan="2">
       <h3>📋 Git Command Cheatsheet</h3>
       <p>A curated personal reference of essential Git commands and workflows, built for quick lookup during development.</p>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
