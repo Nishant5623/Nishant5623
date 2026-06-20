@@ -77,7 +77,7 @@ I'm a Computer Science student at Manav Rachna University, focused on DevOps, cl
   </tr>
 </table>
 
-> 💡 *Replace the `#` links above with your actual repo URLs once they're public.*
+
 
 <br/>
 
@@ -100,7 +100,7 @@ I'm a Computer Science student at Manav Rachna University, focused on DevOps, cl
   <img src="https://raw.githubusercontent.com/Nishant5623/Nishant5623/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
 </div>
 
-> ⚙️ *This requires a one-time GitHub Action setup — see the `snake.yml` workflow file provided alongside this README, and the setup steps below.*
+
 
 <br/>
 
