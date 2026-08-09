@@ -54,19 +54,25 @@ I'm a Computer Science student at Manav Rachna University, focused on DevOps, cl
 
 <table>
   <tr>
-    <td colspan="2">
-      <h3>📐 VLSM Calculator</h3>
-      <p>A self-contained subnet calculator built with HTML and Java Swing, designed as a clean, portfolio-ready single-file tool.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-      <img src="https://img.shields.io/badge/Swing-GUI-58A6FF?style=flat-square" alt="Swing GUI"/>
+    <td width="50%">
+      <h3>🤖 <a href="https://github.com/Nishant5623/devops-rag-assistant">DevOps RAG Assistant</a></h3>
+      <p>A Retrieval-Augmented Generation assistant tailored for DevOps: integrates vector search over documentation and an LLM to answer infrastructure and CI/CD questions.</p>
+      <a href="https://github.com/Nishant5623/devops-rag-assistant"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a>
+      <img src="https://img.shields.io/badge/Automation-58A6FF?style=flat-square" alt="Automation"/>
+    </td>
+    <td width="50%">
+      <h3>🛠️ <a href="https://github.com/Nishant5623/lamp-stack-automation">LAMP Stack Automation</a></h3>
+      <p>Infrastructure automation to provision and configure LAMP (Linux, Apache, MySQL, PHP) stacks across environments for fast deployments and reproducible labs.</p>
+      <a href="https://github.com/Nishant5623/lamp-stack-automation"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a>
+      <img src="https://img.shields.io/badge/Infrastructure-58A6FF?style=flat-square" alt="Infrastructure"/>
     </td>
   </tr>
   <tr>
     <td colspan="2">
       <h3>📋 Git Command Cheatsheet</h3>
       <p>A curated personal reference of essential Git commands and workflows, built for quick lookup during development.</p>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docs-Reference-58A6FF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/Docs-Reference-58A6FF?style=flat-square" alt="Docs"/>
     </td>
   </tr>
 </table>
