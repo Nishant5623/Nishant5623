@@ -28,7 +28,6 @@ I'm a Computer Science student at Manav Rachna University, focused on DevOps, cl
 
 ## 🎯 Goals & Currently Working On
 
-- 🏛️ **Building [Civic-Tech AI Platform](#)** — an AI-powered court judgment summarizer and RTI filing assistant for India, submitted to **Samsung Solve for Tomorrow 2026**
 - 🌱 **Contributing to open source** — actively working toward a first merged PR, with **Google Summer of Code (GSoC)** and **LFX Mentorship** as target programs
 - ⚙️ **Going deeper into DevOps & MLOps** — Docker, Kubernetes, CI/CD pipelines, and infrastructure automation
 - 💬 Happy to talk about: Linux systems, networking, containerization, CI/CD, and cloud platforms (AWS/GCP)
