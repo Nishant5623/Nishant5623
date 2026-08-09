@@ -56,7 +56,6 @@ I'm a Computer Science student at Manav Rachna University, focused on DevOps, cl
   <tr>
     <td width="50%">
       <h3>🏛️ Civic-Tech AI Platform</h3>
-      <p>AI-powered civic-tech platform combining a court judgment summarizer with an RTI filing assistant for India. Submitted to Samsung Solve for Tomorrow 2026.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/AI-Civic--Tech-58A6FF?style=flat-square"/>
     </td>
