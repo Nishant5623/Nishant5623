@@ -84,12 +84,12 @@ I'm a Computer Science student at Manav Rachna University, focused on DevOps, cl
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishant5623&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nishant's GitHub stats" height="165"/>
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant5623&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Nishant5623&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nishant's GitHub stats" height="165"/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant5623&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant5623&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant5623&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/> -->
 </div>
 
 <br/>
