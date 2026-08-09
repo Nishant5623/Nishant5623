@@ -28,7 +28,7 @@ I'm a Computer Science student at Manav Rachna University, focused on DevOps, cl
 
 ## 🎯 Goals & Currently Working On
 
-- 🏛️ Working on personal projects related to automation and networking
+- 🏛️ **Building [Civic-Tech AI Platform](#)** — an AI-powered court judgment summarizer and RTI filing assistant for India, submitted to **Samsung Solve for Tomorrow 2026**
 - 🌱 **Contributing to open source** — actively working toward a first merged PR, with **Google Summer of Code (GSoC)** and **LFX Mentorship** as target programs
 - ⚙️ **Going deeper into DevOps & MLOps** — Docker, Kubernetes, CI/CD pipelines, and infrastructure automation
 - 💬 Happy to talk about: Linux systems, networking, containerization, CI/CD, and cloud platforms (AWS/GCP)
@@ -54,19 +54,25 @@ I'm a Computer Science student at Manav Rachna University, focused on DevOps, cl
 
 <table>
   <tr>
-    <td colspan="2">
+    <td width="50%">
+      <h3>🏛️ Civic-Tech AI Platform</h3>
+      <p>AI-powered civic-tech platform combining a court judgment summarizer with an RTI filing assistant for India. Submitted to Samsung Solve for Tomorrow 2026.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AI-Civic--Tech-58A6FF?style=flat-square"/>
+    </td>
+    <td width="50%">
       <h3>📐 VLSM Calculator</h3>
       <p>A self-contained subnet calculator built with HTML and Java Swing, designed as a clean, portfolio-ready single-file tool.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-      <img src="https://img.shields.io/badge/Swing-GUI-58A6FF?style=flat-square" alt="Swing GUI"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Swing-GUI-58A6FF?style=flat-square"/>
     </td>
   </tr>
   <tr>
     <td colspan="2">
       <h3>📋 Git Command Cheatsheet</h3>
       <p>A curated personal reference of essential Git commands and workflows, built for quick lookup during development.</p>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/Docs-Reference-58A6FF?style=flat-square" alt="Docs"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docs-Reference-58A6FF?style=flat-square"/>
     </td>
   </tr>
 </table>
@@ -79,6 +85,7 @@ I'm a Computer Science student at Manav Rachna University, focused on DevOps, cl
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nishant5623&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nishant's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant5623&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </div>
 
 <div align="center">
