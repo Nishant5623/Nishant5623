@@ -54,16 +54,11 @@ I'm a Computer Science student at Manav Rachna University, focused on DevOps, cl
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🏛️ Civic-Tech AI Platform</h3>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AI-Civic--Tech-58A6FF?style=flat-square"/>
-    </td>
-    <td width="50%">
+    <td colspan="2">
       <h3>📐 VLSM Calculator</h3>
       <p>A self-contained subnet calculator built with HTML and Java Swing, designed as a clean, portfolio-ready single-file tool.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Swing-GUI-58A6FF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/Swing-GUI-58A6FF?style=flat-square" alt="Swing GUI"/>
     </td>
   </tr>
   <tr>
